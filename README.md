@@ -1,4 +1,5 @@
-## Hey there, I'm Clarissa Mattos! Welcome to my GitHub :wave:
+## Hey there, I'm Clarissa Mattos! 
+### Welcome to my GitHub :wave:
 
 I´m a System Analysis and Development student who's looking for opportunities in projects related to Machine Learning, Data Science and Cloud Development. I work on a Cloud Consulting company (specialized in AWS) and my main goal is to learn new things and participate in new projects! I'm passionate about discovering ideas and technologies. 
 
